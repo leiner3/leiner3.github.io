@@ -1,7 +1,19 @@
 ---
-title: "Willemijn"
----
- 
-Hello! My name is Willemijn Leiner, I love psychology and statistics, and what I love even more is hanging out with my two dogs!
+title: "Willemijn Leiner"
+image: images/IMG_5416.jpeg
+toc: false
 
-Test test 
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/willemijn-leiner-8120b8345/
+    - text: GitHub
+      href: https://leiner3.github.io
+    - text: Email
+      href: mailto:willemijnleiner@gmail.com
+---
+
+Hello! My name is Willemijn Leiner, I love psychology and statistics, and what I love even more is hanging out with my two dogs!
