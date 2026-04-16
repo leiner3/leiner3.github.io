@@ -226,3 +226,6 @@ potter_tfidf |>
 ```
 
 Professor Roith flicks his wand and seven charts appear on the board. TF-IDF, he explains, finds the words that are uniquely important to each book by giving us the words that are used a lot in one book and appear a lot less in the other books. The charts explain this well, since in the first book, Quirrell is mentioned frequently, while someone like Dobby the house elf appears more often in the second book. It is not only names, but also words such as defense (book 5) and champions (book 4) are displayed.
+
+
+
