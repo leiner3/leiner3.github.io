@@ -10,9 +10,9 @@ editor: visual
 library(tidyverse)
 library(tidytext)
 library(RCurl)
-library(knitr) 
+library(knitr)
 library(kableExtra)
-library(forcats) 
+library(forcats)
 library(stringr)
 ```
 
@@ -55,7 +55,7 @@ potter_names <- read_csv(
     lastname  = str_to_lower(lastname)
   )
 
-  
+
 potter_spells <- read_csv(
   file = getURL(
     "https://raw.githubusercontent.com/joeroith/264_spring_2026/refs/heads/main/Data/potter_spells.csv",
@@ -93,7 +93,7 @@ ron_pattern <- "\\b(ron|ronald)"
 key_chars <- tibble(
   character = c(
     "Harry", 
-    "Ron (all names)", 
+    "Ron (all names)",  
     "Hermione", 
     "Dumbledore", 
     "Voldemort (all names)"),

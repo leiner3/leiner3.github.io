@@ -4,9 +4,9 @@ image: images/IMG_5416.jpeg
 toc: false
 
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
-  image-width: 17em
+  image-width: 14em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/willemijn-leiner-8120b8345/
@@ -17,3 +17,13 @@ about:
 ---
 
 Hello! My name is Willemijn Leiner, I love psychology and statistics, and what I love even more is hanging out with my two dogs!
+
+::: {.panel-tabset}
+## Data Science Project 1
+miniproject1.qmd
+
+## Data Science Project 2
+miniproject2.qmd
+:::
+
+
