@@ -17,7 +17,7 @@ website:
           - text: "Interactive Choropleth Map"
             href: 12_maps.qmd
       - text: "Resume"
-        href: CV_Aprill26.pdf
+        href: CV_Apr_22_26.pdf
             
 
 format:

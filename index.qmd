@@ -16,14 +16,5 @@ about:
       href: mailto:willemijnleiner@gmail.com
 ---
 
-Hello! My name is Willemijn Leiner, I love psychology and statistics, and what I love even more is hanging out with my two dogs!
-
-::: {.panel-tabset}
-## Data Science Project 1
-miniproject1.qmd
-
-## Data Science Project 2
-miniproject2.qmd
-:::
-
-
+Hi! I'm Willemijn, a student at St. Olaf College studying Psychology, and Statistics and Data Science with a Neuroscience concentration. I'm very interested in applying my curiosity to questions in brain development, and hope to pursue research and teach on developmental neuroscience in the future. Welcome to my website! This website shows projects I've completed as part of my coursework, more information about my studies, and independent work that reflects my interests! Through these projects, and many more, I've gained experience using R to analyze and visualize data and communicating insights effectively. 
+Outside the classroom, I stay involved on campus as a SOAR leader, and I'm a member of the cross country and track & field teams. I also work as a tutor, spend time working in research labs, and I love babysitting, which have all taught me a lot about communication (and occasional chaos). In my free time I love spending time with my dogs and brother, and being outside playing soccer with my Dutch friends. This site is built using Quarto where I have done a lot of exploring with code and narrative in one place!
