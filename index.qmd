@@ -28,7 +28,38 @@ about:
 
 ::::
 
+Hi! I'm Willemijn, a student at St. Olaf College studying Psychology, and Statistics & Data Science with a Neuroscience concentration. I'm very interested in applying my curiosity to questions in brain development, and hope to pursue research and teach on developmental neuroscience in the future. 
 
+Welcome to my website! This website shows projects I've completed as part of my coursework, more information about my studies, and independent work that reflects my interests! Through these projects, and many more, I've gained experience using R to analyze and visualize data and communicating insights effectively. 
 
-Hi! I'm Willemijn, a student at St. Olaf College studying Psychology, and Statistics and Data Science with a Neuroscience concentration. I'm very interested in applying my curiosity to questions in brain development, and hope to pursue research and teach on developmental neuroscience in the future. Welcome to my website! This website shows projects I've completed as part of my coursework, more information about my studies, and independent work that reflects my interests! Through these projects, and many more, I've gained experience using R to analyze and visualize data and communicating insights effectively. 
-Outside the classroom, I stay involved on campus as a SOAR leader, and I'm a member of the cross country and track & field teams. I also work as a tutor, spend time working in research labs, and I love babysitting, which have all taught me a lot about communication (and occasional chaos). In my free time I love spending time with my dogs and brother, and being outside playing soccer with my Dutch friends. This site is built using Quarto where I have done a lot of exploring with code and narrative in one place!
+Outside the classroom, I stay involved as a SOAR leader, and I'm a member of the cross country and track & field teams. I also work as a tutor, spend time working in research labs, and I love babysitting, which have all taught me a lot about communication (and occasional chaos). In my free time I love spending time with my dogs and brother, and being outside playing soccer with my Dutch friends. This site is built using Quarto where I have done a lot of exploring with code and narrative in one place!
+
+## Explore My Work
+
+::: {.grid}
+::: {.g-col-4}
+::: {.card}
+**Projects**  
+Analyzing data with R 
+[DS Project 1 →](miniproject1.qmd)
+[DS Project 2 →](miniproject2.qmd)
+[DS Project 4 →](`https://rconnect.stolaf.edu/connect/#/apps/06dadac8-9e15-40a0-8a91-2195e f2c100/access?permission_request=f50f43bc70`)
+[Stats 2 Project →](FINALSDS272.pdf)
+[Stats 2 Project →](SDS164FINAL.pdf)
+:::
+:::
+::: {.g-col-4}
+::: {.card}
+**Research Experience**  
+Cardiac MRI & Neuroscience  
+[Cardiac MRI Research →](RV_strain_abstract.pdf)
+:::
+:::
+::: {.g-col-4}
+::: {.card}
+**Resume**  
+My background & skills  
+[View Resume →](CV_Apr_22_26.pdf)
+:::
+:::
+:::

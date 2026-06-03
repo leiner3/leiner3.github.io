@@ -10,15 +10,27 @@ website:
         text: Home
       - text: "Projects"
         menu:
-          - text: "Data Science Project 1"
-            href: miniproject1.qmd
-          - text: "Data Science Project 2"
-            href: miniproject2.qmd
-          - text: "Interactive Choropleth Map"
-            href: 12_maps.qmd
+             - text: "Statistics 2 Final Project"
+               href: FINALSDS272
+             - text: "Data Science Project 4"
+               href: "https://rconnect.stolaf.edu/connect/#/apps/06dadac8-9e15-40a0-8a91-2195edf2c100/access?permission_request=f50f43bc70"     
+             - text: "Data Science Project 2"
+               href: miniproject2.qmd
+             - text: "Data Science Project 1"
+               href: miniproject1.qmd
+             - text: "Data Science 1 Final Project"
+               href: SDS164FINAL.pdf
+             - text: "Biopsychology: Methods for Studying Language Development in Children"
+               href: Group3_Portfolio.pdf
+      - text: "Research Experience"
+        menu: 
+          - text: "Cardiac MRI HMS"
+            href: RV_strain_abstract.pdf
+          - text: "Developmental Neuroscience SYNC Lab EUR"
+            href: RV_strain_abstract.pdf # vervanger voor nu
       - text: "Resume"
-        href: CV_Apr_22_26.pdf
-            
+        href: CV_june_3.pdf
+
 
 format:
   html:
