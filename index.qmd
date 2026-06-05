@@ -40,26 +40,27 @@ Outside the classroom, I stay involved as a SOAR leader, and I'm a member of the
 ::: {.g-col-4}
 ::: {.card}
 **Projects**  
-Analyzing data with R 
-[DS Project 1 →](miniproject1.qmd)
-[DS Project 2 →](miniproject2.qmd)
-[DS Project 4 →](`https://rconnect.stolaf.edu/connect/#/apps/06dadac8-9e15-40a0-8a91-2195e f2c100/access?permission_request=f50f43bc70`)
-[Stats 2 Project →](FINALSDS272.pdf)
-[Stats 2 Project →](SDS164FINAL.pdf)
+Analyzing data with R
+
+<div>[DS Project 1](miniproject1.qmd)</div>
+<div>[DS Project 2](miniproject2.qmd)</div>
+<div>[DS Project 4](https://rconnect.stolaf.edu/connect/#/apps/06dadac8-9e15-40a0-8a91-2195ef2c100/access?permission_request=f50f43bc70)</div>
+<div>[Stats 2 Project](FINALSDS272.pdf)</div>
+<div>[Data Science Project](SDS164FINAL.pdf)</div>
 :::
 :::
 ::: {.g-col-4}
 ::: {.card}
 **Research Experience**  
 Cardiac MRI & Neuroscience  
-[Cardiac MRI Research →](RV_strain_abstract.pdf)
+[Cardiac MRI Research](RV_strain_abstract.pdf)
 :::
 :::
 ::: {.g-col-4}
 ::: {.card}
 **Resume**  
 My background & skills  
-[View Resume →](CV_Apr_22_26.pdf)
+[View Resume](CV_Apr_22_26.pdf)
 :::
 :::
 :::
